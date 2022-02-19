@@ -7,6 +7,6 @@ https://gitpod.io#https://github.com/infomastudy/GitPod </br>
 
 $ pipenv install </br>
 $ pipenv shell </br>
-([repository_name])$ jupyter lab </br>
+([repository_name])$ jupyter lab --ip=0.0.0.0 --no-browser </br>
 
 上記のコマンドをgitpodのterminalで実行してください。
